@@ -1,17 +1,17 @@
-# 📄 AI Resume Assistant
+# AI Resume Assistant
 
 This is an AI-powered assistant that analyzes a resume (`resume.pdf`) and provides:
-- **Q&A on Resume Content** 🎤 (Ask questions about experience, skills, etc.)
-- **AI-Powered Insights** 🧠 (Summarization, analysis)
-- **Auto-Generated Resume Summary** 📜 (Concise overview in 3-4 sentences)
+- **Q&A on Resume Content** (Ask questions about experience, skills, etc.)
+- **AI-Powered Insights** (Summarization, analysis)
+- **Auto-Generated Resume Summary** (Concise overview in 3-4 sentences)
 
-## 🌟 Features
+## Features
 ✅ **Resume Summary Tab** - AI-generated summary of the resume.  
 ✅ **Resume Q&A Tab** - Ask questions about the resume.  
 ✅ **AI Analysis Tab** - Get insights using an AI-powered agent.  
 ✅ **Download Resume** - Save the analyzed resume.  
 
-## 📂 File Structure
+## File Structure
 ```
 AI-Resume-Assistant
  ├── app.py          # Main Streamlit app
@@ -21,7 +21,7 @@ AI-Resume-Assistant
  ├── requirements.txt # Dependencies
 ```
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Clone the repository
 ```bash
@@ -62,9 +62,9 @@ streamlit run app.py
    - **"AI Analysis"**: Get deeper insights.
 3. **Download the resume from the sidebar**.
 
-## 👨‍💻 Developers
+## Developers
 
 - [Aarushi Thejaswi](https://github.com/athejaswi)  
 - [Anjith Prakash](https://github.com/Anuttan)  
 
-Feel free to contribute and enhance this project!
+Feel free to fork and enhance this project!
