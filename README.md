@@ -25,7 +25,7 @@ AI-Resume-Assistant
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/AI-Resume-Assistant.git
+git clone https://github.com/Anuttan/AI-Resume-Assistant.git
 cd AI-Resume-Assistant
 ```
 
